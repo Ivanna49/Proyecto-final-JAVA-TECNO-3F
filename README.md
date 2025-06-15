@@ -1,4 +1,3 @@
-# Proyecto Policía - Gestión de Armas y Escuadrones
 
 Este proyecto en Java modela una gestión básica de policías, armas (cortas y largas) y escuadrones. Permite crear objetos con sus atributos, asociar policías con armas y organizar escuadrones con sus integrantes y equipamiento.
 
@@ -17,11 +16,6 @@ Este proyecto en Java modela una gestión básica de policías, armas (cortas y 
 3. Ejecutar la clase `Main` para ver el ejemplo de creación de policías, armas y escuadrones.
 4. Modificar o extender las clases para adaptarlo a tus necesidades.
 
-## Tecnologías
-
-- Java 8 o superior
-- IDE recomendado: cualquier entorno compatible con Java
-
 ## Estructura de Clases
 
 - `Arma` (abstracta): clase base para armas.
@@ -31,5 +25,4 @@ Este proyecto en Java modela una gestión básica de policías, armas (cortas y 
 - `Escuadron`: grupo de policías y armas con métodos para estadísticas.
 - `EstadoArma` (enum): estados posibles de un arma.
 
-## Ejemplo de salida
 
